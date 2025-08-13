@@ -2,6 +2,10 @@
 
 An interactive, responsive interface to compare products side-by-side.
 
+## Live Demo
+
+Check out the live app here: **[https://compareproductapp.netlify.app/](https://compareproductapp.netlify.app/)**
+
 ## Tech
 - React (Vite)
 - Material UI (MUI)
